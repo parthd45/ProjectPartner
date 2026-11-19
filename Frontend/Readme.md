@@ -29,32 +29,6 @@ The Home Page design is ready on Figma.
 
 More pages and UI components will be added soon.
 
-## 🧩 Design System
-
-We are building a consistent design system that includes:
-
-- Colors
-- Typography
-- Buttons
-- Cards
-- Navigation bar
-- Forms
-- Icons
-- Spacing and layout rules
-
-A clear design system helps keep the UI consistent across all pages. Figma recommends documenting styles, components, and naming conventions to make design handoff easier. [1][2]
-
-## 📱 Pages Planned
-
-- Home Page ✅
-- Login / Signup Page
-- Dashboard Page
-- Project Page
-- Profile Page
-- Contact / About Page
-
-## 🚀 Next Steps
-
 - Complete remaining page designs
 - Finalize the design system
 - Review UI/UX flow
