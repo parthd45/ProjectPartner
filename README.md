@@ -11,5 +11,6 @@ Our current focus is on:
 - Preparing the designs for frontend development.
 
 **Current Status:** UI/UX Design & Frontend Planning in Progress 🚀
+Home Page Design is Ready on Figma 
 
 More updates coming soon!
