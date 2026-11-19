@@ -1,16 +1,16 @@
 # ProjectPartner
+
 ## 🎨 Frontend Development – In Progress
 
-We have officially started working on the frontend design of our project using **Figma**.
+We have completed the **Home Page UI/UX Design** of our website using **Figma** and have now started working on its implementation.
 
 Our current focus is on:
-- Creating UI/UX designs and wireframes.
-- Designing clean and user-friendly interfaces.
-- Planning page layouts and navigation.
-- Building a consistent design system.
-- Preparing the designs for frontend development.
+- Converting the Figma design into a working webpage.
+- Building the frontend of the website.
+- Creating clean and user-friendly interfaces.
+- Ensuring a consistent design across the website.
+- Working on the remaining pages and layouts.
 
-**Current Status:** UI/UX Design & Frontend Planning in Progress 🚀
-Home Page Design is Ready on Figma 
+**Current Status:** Home Page Design Completed ✅ | Frontend Development in Progress 🚀
 
 More updates coming soon!
