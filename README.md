@@ -13,4 +13,8 @@ Our current focus is on:
 
 **Current Status:** Home Page Design Completed ✅ | Frontend Development in Progress 🚀
 
+Date:- 21-11-2026
+Done with ERD Diagram and Database structure (diagrams)
+along with use case 
+
 More updates coming soon!
